@@ -12,16 +12,15 @@ const App = () => {
         alignItems: "center",
         justifyContent: "center",
         padding: "4rem",
-        border: "70px solid black",
       }}
     >
       <img
         src="https://miro.medium.com/v2/resize:fit:5120/1*42ebJizcUtZBNIZPmmMZ5Q.jpeg"
         alt="book image"
-        style={{ height: "275px", width: "400px" }}
+        style={{ height: "275px", width: "100%" }}
       />
       <h3>The psychology of money</h3>
-      <p style={{ textAlign: "center" }}>
+      <p style={{ textAlign: "justify" }}>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit,
         expedita! Nihil, odit. Vitae fugiat eos rerum reprehenderit quis
         temporibus dignissimos, voluptatibus perspiciatis, ullam explicabo
